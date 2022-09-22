@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class star_wars {
+public class Calculadora {
 
 	public static void main(String[] args) {
 
